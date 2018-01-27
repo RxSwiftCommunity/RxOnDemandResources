@@ -11,7 +11,7 @@ import RxSwift
 
 public extension Reactive where Base: Bundle {
     
-    public func demandResources(withTags: Set<String>) -> Observable<Progress> {
+    public func demandResources(withTags tags: Set<String>) -> Observable<Progress> {
         return Observable.create { observer in
             let fetcher = ODRFetcher(observer: observer, tags: tags, bundle: self.base)
             fetcher.fetch()
