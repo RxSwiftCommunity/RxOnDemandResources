@@ -30,6 +30,6 @@ Basic usage.
 Carthage setup.
 
 ```
-github "maxvol/RxOnDemandResources" ~> 0.0.1
+github "maxvol/RxOnDemandResources" ~> 0.0.2
 
 ```
