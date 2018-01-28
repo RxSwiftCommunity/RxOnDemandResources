@@ -3,7 +3,7 @@ RxOnDemandResources (based on RxSwift)
 
 Basic usage.
 
-'''swift
+```swift
 
     Bundle
         .main
@@ -25,7 +25,7 @@ Basic usage.
             }
         }
         .disposed(by: self.disposeBag)
-'''
+```
 
 Carthage setup.
 
