@@ -30,6 +30,6 @@ Bundle
 Carthage setup.
 
 ```
-github "maxvol/RxOnDemandResources" ~> 0.0.2
+github "maxvol/RxOnDemandResources" ~> 1.0.0
 
 ```
