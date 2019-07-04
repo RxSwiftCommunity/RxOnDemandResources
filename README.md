@@ -30,6 +30,7 @@ Bundle
 Carthage setup.
 
 ```
-github "maxvol/RxOnDemandResources" ~> 1.0.0
+github "RxSwiftCommunity/RxOnDemandResources" ~> 1.0.0
 
 ```
+Copyright (c) RxSwiftCommunity
